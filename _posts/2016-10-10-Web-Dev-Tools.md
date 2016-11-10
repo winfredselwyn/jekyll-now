@@ -34,6 +34,9 @@ title: Web Dev tools
 **HELPER LIBRARIES**
  - [Lodash](https://lodash.com/)
 
+**STUDY PATHS**
+ - [Google Interview University](https://github.com/jwasham/google-interview-university)
+
 **REACT LIBRARIES**
 Formidable
  - [Radium](https://formidable.com/open-source/radium/) ( inline CSS )
