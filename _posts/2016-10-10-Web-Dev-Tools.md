@@ -22,6 +22,9 @@ title: Web Dev tools
 **EVENT EMITTER**
  - [Event Emitter](https://github.com/Zlobin/es-event-emitter)
 
+**JS LIBRARIES**
+ - [White Storm](https://whsjs.io/#/)(React-ish + Three.js)
+
 **ROUTING/STATE MANAGEMENT**
  - [Desklamp](https://github.com/desklamp-js/desklamp)
 
