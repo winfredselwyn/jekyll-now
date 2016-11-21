@@ -47,6 +47,11 @@ title: Web Dev tools
 **STUDY PATHS**
  - [Google Interview University](https://github.com/jwasham/google-interview-university)
 
+**REACT STARTER KITS**
+ - [Create React App](https://github.com/facebookincubator/create-react-app)
+ - [Minimal React](https://github.com/balupton/minimal-react) - deprecated
+ - [React PWA](https://github.com/jeffposnick/create-react-pwa)  
+
 **REACT LIBRARIES**
 Formidable
  - [Radium](https://formidable.com/open-source/radium/) ( inline CSS )
