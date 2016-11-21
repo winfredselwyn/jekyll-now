@@ -5,6 +5,7 @@ title: Web Dev tools
 
 **HTTP CLIENT**
  - [Axios](https://github.com/mzabriskie/axios)
+ - [Superagent](https://github.com/visionmedia/superagent)
 
 **ONLINE IDE**
  - [CodeEnvy](https://codenvy.com/)
