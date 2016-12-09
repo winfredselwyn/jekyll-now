@@ -43,6 +43,8 @@ title: Web Dev tools
 - [grommet](https://grommet.github.io/)
 
 **HELPER LIBRARIES**
+ - [MobX]
+ - [MobX React] 
  - [Lodash](https://lodash.com/)
 
 **STUDY PATHS**
@@ -59,6 +61,7 @@ Formidable
  - [Victory](https://formidable.com/open-source/victory/) ( charting )
  - [Material UI](http://www.material-ui.com/#/) ( CSS framework )
  - [React Compose](http://reactcompose.com/) ( readable code )
+ - [Recompose](https://github.com/acdlite/recompose) ( lodash for React )
 
 **BOOKS**
  - Software Engineering - A practitioner's approach ( Pressman, Maxim )
