@@ -1,6 +1,6 @@
 # Steps for getting @shoutem/ui working with Exponent #
 
-For an unidentified reason , yarn and npm are unable to add @shoutem/ui to package.json on a Windows machine.
+For an unidentified reason, yarn and npm are unable to add @shoutem/ui to package.json on a Windows machine.
 Here's how to use the UI toolkit
 
 ## Windows ##
