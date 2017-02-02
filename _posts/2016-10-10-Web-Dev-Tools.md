@@ -110,6 +110,11 @@ title: Web Dev tools
 - [Nachos-UI](https://avocode.com/nachos-ui/#get-started)
 
 
+**REACT NATIVE ANIMATION LIBRARY**
+
+- [Lottie](https://github.com/airbnb/lottie-react-native)
+
+
 **React Native Components**
 
 - [Immutable List View](https://github.com/cooperka/react-native-immutable-list-view)
@@ -121,6 +126,7 @@ title: Web Dev tools
 - [Quasar/Vue 2](http://quasar-framework.org/)
 
 - [Electron/React/Vue](http://electron.atom.io/)
+
 
 **CSS LIBRARY**
 
