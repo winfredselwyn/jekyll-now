@@ -13,6 +13,20 @@ title: Web Dev tools
 
  - [CodeEnvy](https://codenvy.com/)
 
+
+**RAILS API-only TOOLS*** 
+
+ - [Knock gem](https://github.com/nsarno/knock)
+
+ - [Active Model Serializers](https://github.com/rails-api/active_model_serializers)
+
+ - [Knock Tutorial](https://www.driftingruby.com/episodes/rails-api-authentication-with-jwt#show_notes)
+
+ - [Auth With React](http://blog.slatepeak.com/build-a-react-redux-app-with-json-web-token-jwt-authentication/)
+
+ - [CRUD interface with React](https://www.pluralsight.com/guides/ruby-ruby-on-rails/building-a-crud-interface-with-react-and-ruby-on-rails)
+
+
 **DATABASES**
 
  - [Horizon](https://horizon.io/)
